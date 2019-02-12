@@ -13,9 +13,10 @@
 *.class
  
 # Generated files
-/bin/
-/gen/
-/out/
+bin/
+gen/
+out/
+.settings/
  
 # Gradle files
 .gradle/
